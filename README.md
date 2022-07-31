@@ -1,7 +1,7 @@
 - 👋 **Hi, I am hafsa**
 - 👀 I’m interested in full stack web development...
 - 🌱 I’m currently learning Mern Stack...
-- 💞️ 
+
 - 📫 Get in touch - hafsabucse3@gmail.com
 
 <!---
