@@ -1,5 +1,5 @@
 - 👋 **Hi, I am hafsa**
-- 👀 I have been working as a full stack web developer.
+- 👀 I have been working as a front-end web developer.
 - 🌱 I’m currently learning Mern Stack...
 
 - 📫 Get in touch - hafsabucse3@gmail.com
